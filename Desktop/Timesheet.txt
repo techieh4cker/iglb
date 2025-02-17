@@ -1,0 +1,8 @@
+\29-11-2024
+----------
+
+1) SDLC
+2) Compilers vs Interpreters
+
+
+use case, seq, er, flow, clas
